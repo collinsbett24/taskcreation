@@ -24,8 +24,6 @@ On local Machine
 
 install java 17 or a higher version 
 
-
-
 run git clone "git@github.com:collinsbett24/taskcreation.git"
 
 inside your new applications directory ->run mvn install
