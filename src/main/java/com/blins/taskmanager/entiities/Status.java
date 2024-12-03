@@ -1,7 +1,7 @@
 package com.blins.taskmanager.entiities;
 
 public enum Status {
-    NOT_STARTED,
+    TO_DO,
     IN_PROGRESS,
-    COMPLETED
+    DONE
 }
